@@ -1,6 +1,6 @@
 {
-  "name": "Your Face Puzzle",
-  "description": "A hand-controlled puzzle game where you use your face as the puzzle. Snapshot your face and arrange the pieces using hand gestures.",
+  "name": "HandTrack Gaming Hub",
+  "description": "An immersive hand-tracking game platform featuring Cyber Connect, Neon Hockey, and Face Puzzle.",
   "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["hand-tracking", "camera-interaction"]
+  "majorCapabilities": ["Hand Tracking", "Multilingual Support", "Immersive Gameplay"]
 }
